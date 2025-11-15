@@ -6,7 +6,7 @@
 [![Accuracy](https://img.shields.io/badge/Validation_Accuracy-94.21%25-brightgreen.svg)]()
 
 ## 🎯 Project Overview
-Advanced deep learning solution for HAM10000 skin lesion classification achieving **94.21% validation accuracy** with a single model. Target: **98%+ with ensemble**.
+Advanced deep learning solution for HAM10000 skin lesion classification achieving **94.21% validation accuracy** with a single model. Target: **97%+ with ensemble**.
 
 **Team:** Aditya Raj, Aryan Roy, Adarsh Kumar Pradhan
 
